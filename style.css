@@ -1,0 +1,30 @@
+
+body{
+	background-color: #c5b9fd;
+	position: relative;
+
+}
+
+h1{
+	text-align: center;
+	color:#4b0082
+
+}
+
+.container {
+
+	height: 100px;
+    width: 30%;
+    margin: auto;
+    font-weight: bold;
+    font-style: oblique;
+    background-color: #cdcdcd;
+	border:5px solid green;
+	border-radius: 10px;
+	padding: 20px;	
+   }
+  .button {
+  	text-align: center;
+  	
+
+  }
